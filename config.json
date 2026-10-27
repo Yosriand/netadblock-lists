@@ -1,0 +1,29 @@
+{
+  "registry": "assets/assets.json",
+  "mirror_base_url": "",
+  "others": "remove",
+  "lists": [
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-unbreak",
+    "ublock-quick-fixes",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "IDN-0"
+  ],
+  "sources": {},
+  "sync_registry": true,
+  "max_stale_days": 7,
+  "freeze": [],
+  "fallback_sources": {
+    "easylist": [
+      "https://easylist.to/easylist/easylist.txt"
+    ],
+    "easyprivacy": [
+      "https://easylist.to/easylist/easyprivacy.txt"
+    ]
+  }
+}
