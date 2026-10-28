@@ -1,0 +1,151 @@
+{
+ "assets.json": {
+  "content": "internal",
+  "updateAfter": 13,
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/assets.json",
+   "assets/assets.json"
+  ]
+ },
+ "public_suffix_list.dat": {
+  "content": "internal",
+  "updateAfter": 19,
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/public_suffix_list.dat",
+   "assets/thirdparties/publicsuffix.org/list/effective_tld_names.dat"
+  ]
+ },
+ "ublock-badlists": {
+  "content": "internal",
+  "updateAfter": 29,
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/ublock-badlists.txt",
+   "assets/ublock/badlists.txt"
+  ]
+ },
+ "ublock-filters": {
+  "content": "filters",
+  "group": "default",
+  "parent": "uBlock filters",
+  "title": "uBlock filters – Ads",
+  "tags": "ads",
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/ublock-filters.txt",
+   "assets/ublock/filters.min.txt",
+   "assets/ublock/filters.txt"
+  ],
+  "supportURL": "https://github.com/uBlockOrigin/uAssets"
+ },
+ "ublock-badware": {
+  "content": "filters",
+  "group": "default",
+  "parent": "uBlock filters",
+  "title": "uBlock filters – Badware risks",
+  "tags": "malware security",
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/ublock-badware.txt",
+   "assets/ublock/badware.min.txt",
+   "assets/ublock/badware.txt"
+  ],
+  "supportURL": "https://github.com/uBlockOrigin/uAssets",
+  "instructionURL": "https://github.com/gorhill/uBlock/wiki/Badware-risks"
+ },
+ "ublock-privacy": {
+  "content": "filters",
+  "group": "default",
+  "parent": "uBlock filters",
+  "title": "uBlock filters – Privacy",
+  "tags": "privacy",
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/ublock-privacy.txt",
+   "assets/ublock/privacy.min.txt",
+   "assets/ublock/privacy.txt"
+  ],
+  "supportURL": "https://github.com/uBlockOrigin/uAssets"
+ },
+ "ublock-unbreak": {
+  "content": "filters",
+  "group": "default",
+  "parent": "uBlock filters",
+  "title": "uBlock filters – Unbreak",
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/ublock-unbreak.txt",
+   "assets/ublock/unbreak.min.txt",
+   "assets/ublock/unbreak.txt"
+  ],
+  "supportURL": "https://github.com/uBlockOrigin/uAssets"
+ },
+ "ublock-quick-fixes": {
+  "content": "filters",
+  "group": "default",
+  "parent": "uBlock filters",
+  "title": "uBlock filters – Quick fixes",
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/ublock-quick-fixes.txt",
+   "assets/ublock/quick-fixes.min.txt",
+   "assets/ublock/quick-fixes.txt"
+  ],
+  "supportURL": "https://github.com/uBlockOrigin/uAssets"
+ },
+ "easylist": {
+  "content": "filters",
+  "group": "ads",
+  "title": "EasyList",
+  "tags": "ads",
+  "preferred": true,
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/easylist.txt",
+   "assets/thirdparties/easylist/easylist.txt"
+  ],
+  "supportURL": "https://easylist.to/"
+ },
+ "easyprivacy": {
+  "content": "filters",
+  "group": "privacy",
+  "title": "EasyPrivacy",
+  "tags": "privacy",
+  "preferred": true,
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/easyprivacy.txt",
+   "assets/thirdparties/easylist/easyprivacy.txt"
+  ],
+  "supportURL": "https://easylist.to/"
+ },
+ "urlhaus-1": {
+  "content": "filters",
+  "group": "malware",
+  "title": "Online Malicious URL Blocklist",
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/urlhaus-1.txt",
+   "assets/thirdparties/urlhaus-filter/urlhaus-filter-online.txt"
+  ],
+  "supportURL": "https://gitlab.com/malware-filter/urlhaus-filter#malicious-url-blocklist"
+ },
+ "plowe-0": {
+  "content": "filters",
+  "group": "multipurpose",
+  "updateAfter": 13,
+  "title": "Peter Lowe’s Ad and tracking server list",
+  "tags": "ads privacy security",
+  "preferred": true,
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/plowe-0.txt",
+   "assets/thirdparties/pgl.yoyo.org/as/serverlist.txt",
+   "assets/thirdparties/pgl.yoyo.org/as/serverlist"
+  ],
+  "supportURL": "https://pgl.yoyo.org/adservers/"
+ },
+ "IDN-0": {
+  "content": "filters",
+  "group": "regions",
+  "off": true,
+  "title": "🇮🇩id 🇲🇾my: ABPindo",
+  "tags": "ads indonesian malay",
+  "lang": "id ms",
+  "contentURL": [
+   "https://Yosriand.github.io/netadblock-lists/lists/IDN-0.txt",
+   "assets/lists/IDN-0.txt"
+  ],
+  "supportURL": "https://github.com/ABPindo/indonesianadblockrules"
+ }
+}
