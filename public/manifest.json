@@ -6,7 +6,7 @@
    "source_url": "https://ublockorigin.github.io/uAssets/filters/filters.txt",
    "bytes": 471713,
    "sha256": "8cf219062dfc14b6c2ca6a689021414b909f0f87c3f308d19ddde3d68f6679cc",
-   "fetched_at": "2026-11-01T22:03:13Z",
+   "fetched_at": "2026-11-02T06:06:08Z",
    "license": "GPL-3.0",
    "license_url": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE"
   },
@@ -14,9 +14,9 @@
    "title": "uBlock filters – Badware risks",
    "file": "lists/ublock-badware.txt",
    "source_url": "https://ublockorigin.github.io/uAssets/filters/badware.txt",
-   "bytes": 271523,
-   "sha256": "1516d1b5464d8d45c3cc974770cef4b130a1f26758db60b524e54c6af62902cc",
-   "fetched_at": "2026-11-01T22:03:14Z",
+   "bytes": 272013,
+   "sha256": "fc23fd661a82836c4b719983082281587d63c3e154c531f0aa05c2876dabb699",
+   "fetched_at": "2026-11-02T06:06:08Z",
    "license": "GPL-3.0",
    "license_url": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE"
   },
@@ -26,7 +26,7 @@
    "source_url": "https://ublockorigin.github.io/uAssets/filters/privacy.txt",
    "bytes": 184611,
    "sha256": "5ad11ee0b869d07f1604da44e3315e6444a8137b478305c0908b6c359339b6d6",
-   "fetched_at": "2026-11-01T22:03:14Z",
+   "fetched_at": "2026-11-02T06:06:08Z",
    "license": "GPL-3.0",
    "license_url": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE"
   },
@@ -34,9 +34,9 @@
    "title": "uBlock filters – Unbreak",
    "file": "lists/ublock-unbreak.txt",
    "source_url": "https://ublockorigin.github.io/uAssets/filters/unbreak.txt",
-   "bytes": 281865,
-   "sha256": "dba9b03b9d5af3c1df9816c448656a9c503a6c7b572eeee40a4dfb096c050c84",
-   "fetched_at": "2026-11-01T22:03:14Z",
+   "bytes": 281825,
+   "sha256": "80af7e9020803e264e59078ae51fdd75cf2d46c358afbb71b3d5c00fbac74738",
+   "fetched_at": "2026-11-02T06:06:09Z",
    "license": "GPL-3.0",
    "license_url": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE"
   },
@@ -44,9 +44,9 @@
    "title": "uBlock filters – Quick fixes",
    "file": "lists/ublock-quick-fixes.txt",
    "source_url": "https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt",
-   "bytes": 91921,
-   "sha256": "ab107bf26706f5f2109ba5e000cf659f58505e9fc73f909953369b4f950b35ef",
-   "fetched_at": "2026-11-01T22:03:14Z",
+   "bytes": 91914,
+   "sha256": "bcf103972dcd6c712ca0b8d2996f744d4a0a4d803f90952674d74611b5b20c02",
+   "fetched_at": "2026-11-02T06:06:09Z",
    "license": "GPL-3.0",
    "license_url": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE"
   },
@@ -54,9 +54,9 @@
    "title": "EasyList",
    "file": "lists/easylist.txt",
    "source_url": "https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt",
-   "bytes": 2038324,
-   "sha256": "c98c944c26f7cb3f82900a9551e5f801c5d795bad8dddf25e41ee4c2fb3eaf31",
-   "fetched_at": "2026-11-01T22:03:15Z",
+   "bytes": 2040606,
+   "sha256": "ba238e4ce9efce28e4d372823b464ec700acb99f44f678e90cb0d0125f257dda",
+   "fetched_at": "2026-11-02T06:06:09Z",
    "license": "GPL-3.0 or CC BY-SA 3.0",
    "license_url": "https://easylist.to/pages/licence.html"
   },
@@ -66,7 +66,7 @@
    "source_url": "https://ublockorigin.github.io/uAssets/thirdparties/easyprivacy.txt",
    "bytes": 1501244,
    "sha256": "40aca1faa1cf07496985847c9b794e06c8c73fb497c349cf59119af125257281",
-   "fetched_at": "2026-11-01T22:03:15Z",
+   "fetched_at": "2026-11-02T06:06:09Z",
    "license": "GPL-3.0 or CC BY-SA 3.0",
    "license_url": "https://easylist.to/pages/licence.html"
   },
@@ -74,9 +74,9 @@
    "title": "Online Malicious URL Blocklist",
    "file": "lists/urlhaus-1.txt",
    "source_url": "https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt",
-   "bytes": 12576801,
-   "sha256": "1ca180a5e28c534a6beb7ba05632ede35b4df9662e22e1e07f3e4b8e384e0d95",
-   "fetched_at": "2026-11-01T22:03:16Z",
+   "bytes": 12583608,
+   "sha256": "f4c16be39b15593c72c5281f5f934ba297cccdb238cf3e4f8aed3cebb32b1342",
+   "fetched_at": "2026-11-02T06:06:10Z",
    "license": "CC0-1.0",
    "license_url": "https://gitlab.com/malware-filter/urlhaus-filter/-/blob/main/LICENSE.md"
   },
@@ -86,7 +86,7 @@
    "source_url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext",
    "bytes": 95321,
    "sha256": "86510caa39718815d65844976f7ab85c52a9abdca8e45a935375b405997b8033",
-   "fetched_at": "2026-11-01T22:03:17Z",
+   "fetched_at": "2026-11-02T06:06:13Z",
    "license": "McRae GPL - NON-COMMERCIAL use only",
    "license_url": "https://pgl.yoyo.org/license/"
   },
@@ -96,7 +96,7 @@
    "source_url": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
    "bytes": 314716,
    "sha256": "2ae7089071999c74badb31cb19f214d9c8e3f99ffab83098445d783a8c878e0b",
-   "fetched_at": "2026-11-01T22:03:17Z",
+   "fetched_at": "2026-11-02T06:06:13Z",
    "license": "GPL-3.0 or CC BY-SA 3.0",
    "license_url": "https://github.com/ABPindo/indonesianadblockrules/blob/master/LICENSE"
   },
@@ -106,7 +106,7 @@
    "source_url": "https://ublockorigin.github.io/uAssets/filters/badlists.txt",
    "bytes": 5299,
    "sha256": "f39a41da5b3612014f8149354707089dba13c644f72b991832fab10f0eb8d16e",
-   "fetched_at": "2026-11-01T22:03:17Z",
+   "fetched_at": "2026-11-02T06:06:13Z",
    "license": "GPL-3.0",
    "license_url": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE"
   },
@@ -116,7 +116,7 @@
    "source_url": "https://publicsuffix.org/list/public_suffix_list.dat",
    "bytes": 337917,
    "sha256": "617d1b276660e5a01209d7b58159450e400cf636634a7a9c2cfd50a1c6675d01",
-   "fetched_at": "2026-11-01T22:03:17Z",
+   "fetched_at": "2026-11-02T06:06:13Z",
    "license": "MPL-2.0",
    "license_url": "https://publicsuffix.org/list/"
   }
