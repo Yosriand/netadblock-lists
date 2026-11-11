@@ -1,5 +1,5 @@
 ! Title: uBlock₀ filters – Badware risks
-! Last modified: Wed, 11 Nov 2026 05:29:46 +0000
+! Last modified: Wed, 11 Nov 2026 16:29:40 +0000
 ! Expires: 5 days
 ! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc.
 ! The purpose is to at least ensure a user is warned of the risks ahead.
@@ -4586,7 +4586,7 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://www.virustotal.com/gui/url/3cfd2e05f7e6129a6278d7f0ab0bce05d021cdf47407f51b5dbe6d975eb5ff56
 ! https://github.com/uBlockOrigin/uAssets/issues/33993
 ! https://github.com/uBlockOrigin/uAssets/issues/34059
-||steamcommunity.$doc,to=~steamcommunity.com|~steamcommunity.ai|~steamcommunity.gg|~steamcommunity.rocks|~steamcommunity.tips
+||steamcommunity.$doc,to=~steamcommunity.com|~steamcommunity.ai|~steamcommunity.cl|~steamcommunity.gg|~steamcommunity.rocks|~steamcommunity.tips
 
 ! pubg
 ||register-turnamen.free.nf^$all
@@ -7050,3 +7050,8 @@ msm-wroclaw.pl##+js(noeval-if, _0x)
 
 ! https://www.reddit.com/r/Scams/comments/1xo5pr0/heads_up_fake_aldi_website_phishing_scam_spotted/
 ||pondmart.shop^$all
+
+! https://github.com/hagezi/dns-blocklists/issues/12288
+||4kwallpapers.top^$all
+||pcsofts.site^$all
+||gover.top^$all
