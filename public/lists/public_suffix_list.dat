@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2026-11-14_13-54-10_UTC
-// COMMIT: 5c632f0b1899b116f8a08b5b567f37817a07cb33
+// VERSION: 2026-11-14_18-45-38_UTC
+// COMMIT: dfe55f3548d0fe51c04b8d2903507a01fdec57ad
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -15981,6 +15981,13 @@ shopitsite.com
 shopware.shop
 shopware.store
 
+// Show Corporation : https://doma.in
+// Submitted by Xiufeng Guo <support@cctld.com>
+co.fo
+com.fo
+wz.io
+wz.org
+
 // Siemens Mobility GmbH
 // Submitted by Oliver Graebner <security@mo-siemens.io>
 mo-siemens.io
@@ -16289,6 +16296,10 @@ telebit.io
 // Teleport : https://goteleport.com
 // Submitted by Rob Picard <security@goteleport.com>
 teleport.sh
+
+// Terramind.com, Inc. : https://terramind.com
+// Submitted by Terramind Sites <sites@terramind.com>
+terramind.io
 
 // Thingdust AG : https://thingdust.com/
 // Submitted by Adrian Imboden <adi@thingdust.com>
