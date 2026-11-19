@@ -5,15 +5,15 @@ Each keeps its own license. Lists marked non-commercial must not be used commerc
 
 | id | title | license | origin | fetched (UTC) | sha256 (first 12) |
 |---|---|---|---|---|---|
-| IDN-0 | 🇮🇩id 🇲🇾my: ABPindo | GPL-3.0 or CC BY-SA 3.0 (https://github.com/ABPindo/indonesianadblockrules/blob/master/LICENSE) | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt | 2026-11-19T07:27:49Z | 38e002567bb9 |
-| easylist | EasyList | GPL-3.0 or CC BY-SA 3.0 (https://easylist.to/pages/licence.html) | https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt | 2026-11-19T07:27:48Z | 6a13fce1dd2f |
-| easyprivacy | EasyPrivacy | GPL-3.0 or CC BY-SA 3.0 (https://easylist.to/pages/licence.html) | https://ublockorigin.github.io/uAssets/thirdparties/easyprivacy.txt | 2026-11-19T07:27:48Z | b424e4289bea |
-| plowe-0 | Peter Lowe’s Ad and tracking server list | McRae GPL - NON-COMMERCIAL use only (https://pgl.yoyo.org/license/) | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext | 2026-11-19T07:27:49Z | 437ddb476f8a |
-| public_suffix_list.dat | public_suffix_list.dat | MPL-2.0 (https://publicsuffix.org/list/) | https://publicsuffix.org/list/public_suffix_list.dat | 2026-11-19T07:27:49Z | 809adae1a2cb |
-| ublock-badlists | ublock-badlists | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/badlists.txt | 2026-11-19T07:27:49Z | f39a41da5b36 |
-| ublock-badware | uBlock filters – Badware risks | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/badware.txt | 2026-11-19T07:27:48Z | 791c87a70ffc |
-| ublock-filters | uBlock filters – Ads | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/filters.txt | 2026-11-19T07:27:48Z | 8e265996ea28 |
-| ublock-privacy | uBlock filters – Privacy | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/privacy.txt | 2026-11-19T07:27:48Z | b72bc157130f |
-| ublock-quick-fixes | uBlock filters – Quick fixes | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt | 2026-11-19T07:27:48Z | 8315d8facb3e |
-| ublock-unbreak | uBlock filters – Unbreak | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/unbreak.txt | 2026-11-19T07:27:48Z | 7f097d6d79dd |
-| urlhaus-1 | Online Malicious URL Blocklist | CC0-1.0 (https://gitlab.com/malware-filter/urlhaus-filter/-/blob/main/LICENSE.md) | https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt | 2026-11-19T07:27:48Z | e229ff1dec71 |
+| IDN-0 | 🇮🇩id 🇲🇾my: ABPindo | GPL-3.0 or CC BY-SA 3.0 (https://github.com/ABPindo/indonesianadblockrules/blob/master/LICENSE) | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt | 2026-11-19T20:38:26Z | 38e002567bb9 |
+| easylist | EasyList | GPL-3.0 or CC BY-SA 3.0 (https://easylist.to/pages/licence.html) | https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt | 2026-11-19T20:38:24Z | 1a6bba421ca8 |
+| easyprivacy | EasyPrivacy | GPL-3.0 or CC BY-SA 3.0 (https://easylist.to/pages/licence.html) | https://ublockorigin.github.io/uAssets/thirdparties/easyprivacy.txt | 2026-11-19T20:38:24Z | 55263bb27f78 |
+| plowe-0 | Peter Lowe’s Ad and tracking server list | McRae GPL - NON-COMMERCIAL use only (https://pgl.yoyo.org/license/) | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext | 2026-11-19T20:38:26Z | 437ddb476f8a |
+| public_suffix_list.dat | public_suffix_list.dat | MPL-2.0 (https://publicsuffix.org/list/) | https://publicsuffix.org/list/public_suffix_list.dat | 2026-11-19T20:38:26Z | 0588ac646985 |
+| ublock-badlists | ublock-badlists | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/badlists.txt | 2026-11-19T20:38:26Z | f39a41da5b36 |
+| ublock-badware | uBlock filters – Badware risks | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/badware.txt | 2026-11-19T20:38:23Z | 58833a7f0e87 |
+| ublock-filters | uBlock filters – Ads | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/filters.txt | 2026-11-19T20:38:23Z | 8e265996ea28 |
+| ublock-privacy | uBlock filters – Privacy | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/privacy.txt | 2026-11-19T20:38:23Z | a32e7a73b90f |
+| ublock-quick-fixes | uBlock filters – Quick fixes | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt | 2026-11-19T20:38:23Z | 38c54cb530cc |
+| ublock-unbreak | uBlock filters – Unbreak | GPL-3.0 (https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE) | https://ublockorigin.github.io/uAssets/filters/unbreak.txt | 2026-11-19T20:38:23Z | 617b6a96ccf9 |
+| urlhaus-1 | Online Malicious URL Blocklist | CC0-1.0 (https://gitlab.com/malware-filter/urlhaus-filter/-/blob/main/LICENSE.md) | https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt | 2026-11-19T20:38:25Z | c5412d2c2f95 |
