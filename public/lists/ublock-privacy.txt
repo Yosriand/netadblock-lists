@@ -1,5 +1,5 @@
 ! Title: uBlock filters – Privacy
-! Last modified: Fri, 27 Nov 2026 12:25:32 +0000
+! Last modified: Sat, 28 Nov 2026 16:30:19 +0000
 ! Expires: 7 days
 ! Description: |
 !   Some of these filters make use of the `important` filter option,`
@@ -3419,11 +3419,13 @@ tiktok.com##+js(set-local-storage-item, /__tea_cache_events_.*/, $remove$)
 fcportables.com,filecatchers.com##+js(no-fetch-if, method:POST body:/detect|trigger/)
 fcportables.com,filecatchers.com##+js(no-xhr-if, body:\u)
 fcportables.com,filecatchers.com##+js(no-fetch-if, body:\\u)
-||fcportables.com/p4on3l/
-||filecatchers.com/k5yy6w/
+fcportables.com,filecatchers.com##+js(nostif, [native code])
 
 ! https://github.com/uBlockOrigin/uAssets/issues/35405
 ||suikora.com/api/views
+
+! https://github.com/uBlockOrigin/uAssets/pull/35531
+||9news.com/*/*/*/db/*/*/*/*?v=*-*-*-*-$1p
 
 ! Merge in resource-abuse.txt
 !#include resource-abuse.txt
